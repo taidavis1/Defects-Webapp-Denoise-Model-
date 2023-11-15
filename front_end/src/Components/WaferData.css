@@ -1,0 +1,22 @@
+
+
+*{
+    text-align: center;
+    vertical-align: top;
+}
+
+
+.box{
+    
+    
+
+    align-items: center;
+    text-align: center;
+    background-color: lightgray;
+    border-color: black;
+    padding: 1vw;
+    margin: 1vw;
+    width: 35vw;
+    border-radius: 12px;
+    height: 45vh;
+}
