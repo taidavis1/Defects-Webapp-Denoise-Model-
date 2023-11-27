@@ -45,6 +45,6 @@ module.exports = {
         'bgtree': "url('/src/img/bg-tree.png')",
         'bgpop': "url('/src/img/test.png')",
       }
-    },
+    }, 
   },
 }
